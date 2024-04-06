@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\github\\installer-test\\Src\\installer-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9FBF6E-4434-4831-9F5A-1E957FFB5430}|installer-test\\installer-test.csproj|c:\\users\\micha\\documents\\github\\installer-test\\src\\installer-test\\installer-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9FBF6E-4434-4831-9F5A-1E957FFB5430}|installer-test\\installer-test.csproj|solutionrelative:installer-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\installer-test\\Src\\installer-test\\installer-test\\Program.cs",
+              "RelativeDocumentMoniker": "installer-test\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\installer-test\\Src\\installer-test\\installer-test\\Program.cs",
+              "RelativeToolTip": "installer-test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T23:27:10.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
